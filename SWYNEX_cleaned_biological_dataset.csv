@@ -1,0 +1,6 @@
+Sample_ID,Organism,Gene_Expression,GC_Content_Percent
+S01,Human,12.5,45.2
+S02,Mouse,15.2,42.8
+S03,Human,13.3,46.1
+S04,Zebrafish,9.8,44.35
+S05,Mouse,14.1,43.5
